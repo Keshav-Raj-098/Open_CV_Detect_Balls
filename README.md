@@ -59,7 +59,7 @@ The detection logic is based on the **HSV color space**, which is more robust fo
 
 ## ✅ Testing
 
-- The program has been successfully tested on **10+ image samples** that meet the above constraints.
+- The program has been successfully tested on **5+ image samples** that meet the above constraints.
 - All test cases showed correct ordering and classification of the balls.
 
 ---
